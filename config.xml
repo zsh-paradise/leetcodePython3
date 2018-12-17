@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TastList>
+
+    <TableExtract>
+        <ODS>ODS_ZY_VIEW_LOG</ODS>
+        <ODS>ODS_ZY_TEXTBOOK</ODS>
+        <ODS>ODS_ZY_STAT_PROD_DOWN</ODS>
+        <ODS>ODS_ZY_SHARE_LOG</ODS>
+        <ODS>ODS_ZY_SCORE</ODS>
+        <ODS>ODS_ZY_RES_SHARE</ODS>
+        <ODS>ODS_ZY_RES_REPORT</ODS>
+        <ODS>ODS_ZY_RES_OWNER</ODS>
+        <ODS>ODS_ZY_RES_METADATA</ODS>
+        <ODS>ODS_ZY_RES_CHAPTER</ODS>
+        <ODS>ODS_ZY_RESOURCE</ODS>
+        <ODS>ODS_ZY_PRO_AUDITOR</ODS>
+        <ODS>ODS_ZY_PROD_RES</ODS>
+        <ODS>ODS_ZY_PROD_REPORTLOG</ODS>
+        <ODS>ODS_ZY_PROD_REPORT</ODS>
+        <ODS>ODS_ZY_PROD_OWNER</ODS>
+        <ODS>ODS_ZY_PRODUCT</ODS>
+        <ODS>ODS_ZY_METADATA</ODS>
+        <ODS>ODS_ZY_HOT_TAG</ODS>
+        <ODS>ODS_ZY_EDITION</ODS>
+        <ODS>ODS_ZY_DOWNLOAD_LOG</ODS>
+        <ODS>ODS_ZY_DIS_TEXTBOOK</ODS>
+        <ODS>ODS_ZY_DISK_CAPACITY</ODS>
+        <ODS>ODS_ZY_CPRES_STATUS</ODS>
+        <ODS>ODS_ZY_COLLECTION</ODS>
+        <ODS>ODS_ZY_CLASSIFICATION</ODS>
+    </TableExtract>
+
+    <ProcedureLevel1>
+        <pl1>P_DIM_BUSI_APP_DICTIONARY</pl1>
+        <pl1>P_DWD_ENT_SPVISIT_D</pl1>
+        <pl1>P_DWD_ENT_SPCOLL_D</pl1>
+        <pl1>P_DWD_PROD_SPINFO_D</pl1>
+        <pl1>P_DWD_PROD_INFO_D</pl1>
+        <pl1>P_DWD_COMTY_FT_MEMBER_D</pl1>
+        <pl1>P_DWD_COMTY_FT_STUDIO_D</pl1>
+        <pl1>P_DWD_COMTY_FT_CONTENT_D</pl1>
+        <pl1>P_DWD_COMTY_FT_CLASS_R_D</pl1>
+        <pl1>P_DWD_COMTY_FT_RESEA_D</pl1>
+        <pl1>P_DWD_COMTY_FT_ACTIVIES_D</pl1>
+        <pl1>P_DWD_COMTY_FT_POINT_D</pl1>
+    </ProcedureLevel1>
+
+    <ProcedureLevel2>
+        <pl2>P_DWD_PROD_ALLAPPINFO_D</pl2>
+        <pl2>P_DWD_CUST_SCHOOLINFO_D</pl2>
+    </ProcedureLevel2>
+</TastList>

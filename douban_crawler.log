@@ -1,0 +1,312 @@
+2018-06-04 14:35:46,947 - crawler - INFO - 68 - Parser HaiXiu Group (1) 1 started!
+2018-06-04 14:35:46,980 - crawler - INFO - 111 - Parser Topic 1 started!
+2018-06-04 14:35:47,006 - crawler - INFO - 162 - Storage 1 started!
+2018-06-04 14:35:47,098 - crawler - INFO - 162 - Storage 2 started!
+2018-06-04 14:35:49,542 - crawler - ERROR - 211 - Open douban url(https://www.douban.com/group/haixiuzu/) error: Exceeded 30 redirects.
+2018-06-04 14:35:49,591 - crawler - ERROR - 75 - Parse douban page error: None (line 0)
+2018-06-04 14:35:49,592 - crawler - INFO - 100 - Parser HaiXiu Group (1) 1 finished! put 0 topic to queue.
+2018-06-04 14:35:49,630 - crawler - INFO - 145 - Parser Topic 1 finished! get 0 topic from queue.
+2018-06-04 14:35:49,630 - crawler - INFO - 152 - Parser Topic 1 finished! put 0 image to queue.
+2018-06-04 14:35:49,641 - crawler - INFO - 190 - Storage 1 finished! save image(0/0).
+2018-06-04 14:35:49,680 - crawler - INFO - 190 - Storage 2 finished! save image(0/0).
+2018-06-04 14:35:51,680 - crawler - INFO - 68 - Parser HaiXiu Group (2) 1 started!
+2018-06-04 14:35:51,681 - crawler - INFO - 111 - Parser Topic 1 started!
+2018-06-04 14:35:51,683 - crawler - INFO - 162 - Storage 1 started!
+2018-06-04 14:35:51,684 - crawler - INFO - 162 - Storage 2 started!
+2018-06-04 14:35:53,141 - crawler - ERROR - 211 - Open douban url(https://www.douban.com/group/haixiuzu/) error: Exceeded 30 redirects.
+2018-06-04 14:35:53,142 - crawler - ERROR - 75 - Parse douban page error: None (line 0)
+2018-06-04 14:35:53,142 - crawler - INFO - 100 - Parser HaiXiu Group (2) 1 finished! put 0 topic to queue.
+2018-06-04 14:35:53,148 - crawler - INFO - 145 - Parser Topic 1 finished! get 0 topic from queue.
+2018-06-04 14:35:53,148 - crawler - INFO - 152 - Parser Topic 1 finished! put 0 image to queue.
+2018-06-04 14:35:53,157 - crawler - INFO - 190 - Storage 1 finished! save image(0/0).
+2018-06-04 14:35:53,198 - crawler - INFO - 190 - Storage 2 finished! save image(0/0).
+2018-06-04 14:35:55,200 - crawler - INFO - 68 - Parser HaiXiu Group (3) 1 started!
+2018-06-04 14:35:55,200 - crawler - INFO - 111 - Parser Topic 1 started!
+2018-06-04 14:35:55,201 - crawler - INFO - 162 - Storage 1 started!
+2018-06-04 14:35:55,203 - crawler - INFO - 162 - Storage 2 started!
+2018-06-04 14:35:57,023 - crawler - ERROR - 211 - Open douban url(https://www.douban.com/group/haixiuzu/) error: Exceeded 30 redirects.
+2018-06-04 14:35:57,023 - crawler - ERROR - 75 - Parse douban page error: None (line 0)
+2018-06-04 14:35:57,023 - crawler - INFO - 100 - Parser HaiXiu Group (3) 1 finished! put 0 topic to queue.
+2018-06-04 14:35:57,072 - crawler - INFO - 145 - Parser Topic 1 finished! get 0 topic from queue.
+2018-06-04 14:35:57,072 - crawler - INFO - 152 - Parser Topic 1 finished! put 0 image to queue.
+2018-06-04 14:35:57,073 - crawler - INFO - 190 - Storage 1 finished! save image(0/0).
+2018-06-04 14:35:57,121 - crawler - INFO - 190 - Storage 2 finished! save image(0/0).
+2018-06-04 14:35:59,122 - crawler - INFO - 68 - Parser HaiXiu Group (4) 1 started!
+2018-06-04 14:35:59,124 - crawler - INFO - 111 - Parser Topic 1 started!
+2018-06-04 14:35:59,125 - crawler - INFO - 162 - Storage 1 started!
+2018-06-04 14:35:59,125 - crawler - INFO - 162 - Storage 2 started!
+2018-06-04 14:36:00,262 - crawler - ERROR - 211 - Open douban url(https://www.douban.com/group/haixiuzu/) error: Exceeded 30 redirects.
+2018-06-04 14:36:00,263 - crawler - ERROR - 75 - Parse douban page error: None (line 0)
+2018-06-04 14:36:00,263 - crawler - INFO - 100 - Parser HaiXiu Group (4) 1 finished! put 0 topic to queue.
+2018-06-04 14:36:00,289 - crawler - INFO - 145 - Parser Topic 1 finished! get 0 topic from queue.
+2018-06-04 14:36:00,289 - crawler - INFO - 152 - Parser Topic 1 finished! put 0 image to queue.
+2018-06-04 14:36:00,296 - crawler - INFO - 190 - Storage 1 finished! save image(0/0).
+2018-06-04 14:36:00,342 - crawler - INFO - 190 - Storage 2 finished! save image(0/0).
+2018-06-04 14:36:02,345 - crawler - INFO - 68 - Parser HaiXiu Group (5) 1 started!
+2018-06-04 14:36:02,345 - crawler - INFO - 111 - Parser Topic 1 started!
+2018-06-04 14:36:02,345 - crawler - INFO - 162 - Storage 1 started!
+2018-06-04 14:36:02,346 - crawler - INFO - 162 - Storage 2 started!
+2018-06-04 14:36:04,653 - crawler - ERROR - 211 - Open douban url(https://www.douban.com/group/haixiuzu/) error: Exceeded 30 redirects.
+2018-06-04 14:36:04,654 - crawler - ERROR - 75 - Parse douban page error: None (line 0)
+2018-06-04 14:36:04,654 - crawler - INFO - 100 - Parser HaiXiu Group (5) 1 finished! put 0 topic to queue.
+2018-06-04 14:36:04,664 - crawler - INFO - 145 - Parser Topic 1 finished! get 0 topic from queue.
+2018-06-04 14:36:04,664 - crawler - INFO - 152 - Parser Topic 1 finished! put 0 image to queue.
+2018-06-04 14:36:04,670 - crawler - INFO - 190 - Storage 1 finished! save image(0/0).
+2018-06-04 14:36:04,714 - crawler - INFO - 190 - Storage 2 finished! save image(0/0).
+2018-06-04 14:36:06,716 - crawler - INFO - 68 - Parser HaiXiu Group (6) 1 started!
+2018-06-04 14:36:06,717 - crawler - INFO - 111 - Parser Topic 1 started!
+2018-06-04 14:36:06,717 - crawler - INFO - 162 - Storage 1 started!
+2018-06-04 14:36:06,719 - crawler - INFO - 162 - Storage 2 started!
+2018-06-04 14:36:07,943 - crawler - ERROR - 211 - Open douban url(https://www.douban.com/group/haixiuzu/) error: Exceeded 30 redirects.
+2018-06-04 14:36:08,069 - crawler - ERROR - 75 - Parse douban page error: None (line 0)
+2018-06-04 14:36:08,069 - crawler - INFO - 100 - Parser HaiXiu Group (6) 1 finished! put 0 topic to queue.
+2018-06-04 14:36:08,092 - crawler - INFO - 145 - Parser Topic 1 finished! get 0 topic from queue.
+2018-06-04 14:36:08,092 - crawler - INFO - 152 - Parser Topic 1 finished! put 0 image to queue.
+2018-06-04 14:36:08,095 - crawler - INFO - 190 - Storage 1 finished! save image(0/0).
+2018-06-04 14:36:08,141 - crawler - INFO - 190 - Storage 2 finished! save image(0/0).
+2018-06-04 14:36:10,142 - crawler - INFO - 68 - Parser HaiXiu Group (7) 1 started!
+2018-06-04 14:36:10,144 - crawler - INFO - 111 - Parser Topic 1 started!
+2018-06-04 14:36:10,144 - crawler - INFO - 162 - Storage 1 started!
+2018-06-04 14:36:10,145 - crawler - INFO - 162 - Storage 2 started!
+2018-06-04 14:36:12,332 - crawler - ERROR - 211 - Open douban url(https://www.douban.com/group/haixiuzu/) error: Exceeded 30 redirects.
+2018-06-04 14:36:13,243 - crawler - ERROR - 75 - Parse douban page error: None (line 0)
+2018-06-04 14:36:13,243 - crawler - INFO - 100 - Parser HaiXiu Group (7) 1 finished! put 0 topic to queue.
+2018-06-04 14:36:13,269 - crawler - INFO - 145 - Parser Topic 1 finished! get 0 topic from queue.
+2018-06-04 14:36:13,269 - crawler - INFO - 152 - Parser Topic 1 finished! put 0 image to queue.
+2018-06-04 14:36:13,276 - crawler - INFO - 190 - Storage 1 finished! save image(0/0).
+2018-06-04 14:36:13,321 - crawler - INFO - 190 - Storage 2 finished! save image(0/0).
+2018-06-04 14:36:15,322 - crawler - INFO - 68 - Parser HaiXiu Group (8) 1 started!
+2018-06-04 14:36:15,322 - crawler - INFO - 111 - Parser Topic 1 started!
+2018-06-04 14:36:15,323 - crawler - INFO - 162 - Storage 1 started!
+2018-06-04 14:36:15,325 - crawler - INFO - 162 - Storage 2 started!
+2018-06-04 14:36:16,601 - crawler - ERROR - 211 - Open douban url(https://www.douban.com/group/haixiuzu/) error: Exceeded 30 redirects.
+2018-06-04 14:36:16,602 - crawler - ERROR - 75 - Parse douban page error: None (line 0)
+2018-06-04 14:36:16,602 - crawler - INFO - 100 - Parser HaiXiu Group (8) 1 finished! put 0 topic to queue.
+2018-06-04 14:36:16,609 - crawler - INFO - 145 - Parser Topic 1 finished! get 0 topic from queue.
+2018-06-04 14:36:16,609 - crawler - INFO - 152 - Parser Topic 1 finished! put 0 image to queue.
+2018-06-04 14:36:16,660 - crawler - INFO - 190 - Storage 1 finished! save image(0/0).
+2018-06-04 14:36:16,660 - crawler - INFO - 190 - Storage 2 finished! save image(0/0).
+2018-06-04 14:36:18,663 - crawler - INFO - 68 - Parser HaiXiu Group (9) 1 started!
+2018-06-04 14:36:18,667 - crawler - INFO - 111 - Parser Topic 1 started!
+2018-06-04 14:36:18,668 - crawler - INFO - 162 - Storage 1 started!
+2018-06-04 14:36:18,670 - crawler - INFO - 162 - Storage 2 started!
+2018-06-04 14:36:20,233 - crawler - ERROR - 211 - Open douban url(https://www.douban.com/group/haixiuzu/) error: Exceeded 30 redirects.
+2018-06-04 14:36:20,233 - crawler - ERROR - 75 - Parse douban page error: None (line 0)
+2018-06-04 14:36:20,233 - crawler - INFO - 100 - Parser HaiXiu Group (9) 1 finished! put 0 topic to queue.
+2018-06-04 14:36:20,240 - crawler - INFO - 145 - Parser Topic 1 finished! get 0 topic from queue.
+2018-06-04 14:36:20,240 - crawler - INFO - 152 - Parser Topic 1 finished! put 0 image to queue.
+2018-06-04 14:36:20,266 - crawler - INFO - 190 - Storage 1 finished! save image(0/0).
+2018-06-04 14:36:20,266 - crawler - INFO - 190 - Storage 2 finished! save image(0/0).
+2018-06-04 14:36:22,267 - crawler - INFO - 68 - Parser HaiXiu Group (10) 1 started!
+2018-06-04 14:36:22,269 - crawler - INFO - 111 - Parser Topic 1 started!
+2018-06-04 14:36:22,269 - crawler - INFO - 162 - Storage 1 started!
+2018-06-04 14:36:22,269 - crawler - INFO - 162 - Storage 2 started!
+2018-06-04 14:36:23,471 - crawler - ERROR - 211 - Open douban url(https://www.douban.com/group/haixiuzu/) error: Exceeded 30 redirects.
+2018-06-04 14:36:23,473 - crawler - ERROR - 75 - Parse douban page error: None (line 0)
+2018-06-04 14:36:23,473 - crawler - INFO - 100 - Parser HaiXiu Group (10) 1 finished! put 0 topic to queue.
+2018-06-04 14:36:23,484 - crawler - INFO - 145 - Parser Topic 1 finished! get 0 topic from queue.
+2018-06-04 14:36:23,484 - crawler - INFO - 152 - Parser Topic 1 finished! put 0 image to queue.
+2018-06-04 14:36:23,535 - crawler - INFO - 190 - Storage 1 finished! save image(0/0).
+2018-06-04 14:36:23,536 - crawler - INFO - 190 - Storage 2 finished! save image(0/0).
+2018-06-04 14:36:25,538 - crawler - INFO - 68 - Parser HaiXiu Group (11) 1 started!
+2018-06-04 14:36:25,542 - crawler - INFO - 111 - Parser Topic 1 started!
+2018-06-04 14:36:25,542 - crawler - INFO - 162 - Storage 1 started!
+2018-06-04 14:36:25,543 - crawler - INFO - 162 - Storage 2 started!
+2018-06-04 14:36:26,762 - crawler - ERROR - 211 - Open douban url(https://www.douban.com/group/haixiuzu/) error: Exceeded 30 redirects.
+2018-06-04 14:36:26,762 - crawler - ERROR - 75 - Parse douban page error: None (line 0)
+2018-06-04 14:36:26,762 - crawler - INFO - 100 - Parser HaiXiu Group (11) 1 finished! put 0 topic to queue.
+2018-06-04 14:36:26,772 - crawler - INFO - 145 - Parser Topic 1 finished! get 0 topic from queue.
+2018-06-04 14:36:26,772 - crawler - INFO - 152 - Parser Topic 1 finished! put 0 image to queue.
+2018-06-04 14:36:26,799 - crawler - INFO - 190 - Storage 1 finished! save image(0/0).
+2018-06-04 14:36:26,822 - crawler - INFO - 190 - Storage 2 finished! save image(0/0).
+2018-06-04 14:36:28,822 - crawler - INFO - 68 - Parser HaiXiu Group (12) 1 started!
+2018-06-04 14:36:28,822 - crawler - INFO - 111 - Parser Topic 1 started!
+2018-06-04 14:36:28,823 - crawler - INFO - 162 - Storage 1 started!
+2018-06-04 14:36:28,825 - crawler - INFO - 162 - Storage 2 started!
+2018-06-04 14:36:30,292 - crawler - ERROR - 211 - Open douban url(https://www.douban.com/group/haixiuzu/) error: Exceeded 30 redirects.
+2018-06-04 14:36:30,292 - crawler - ERROR - 75 - Parse douban page error: None (line 0)
+2018-06-04 14:36:30,292 - crawler - INFO - 100 - Parser HaiXiu Group (12) 1 finished! put 0 topic to queue.
+2018-06-04 14:36:30,339 - crawler - INFO - 145 - Parser Topic 1 finished! get 0 topic from queue.
+2018-06-04 14:36:30,339 - crawler - INFO - 152 - Parser Topic 1 finished! put 0 image to queue.
+2018-06-04 14:36:30,348 - crawler - INFO - 190 - Storage 1 finished! save image(0/0).
+2018-06-04 14:36:30,391 - crawler - INFO - 190 - Storage 2 finished! save image(0/0).
+2018-06-04 14:36:32,391 - crawler - INFO - 68 - Parser HaiXiu Group (13) 1 started!
+2018-06-04 14:36:32,392 - crawler - INFO - 111 - Parser Topic 1 started!
+2018-06-04 14:36:32,392 - crawler - INFO - 162 - Storage 1 started!
+2018-06-04 14:36:32,394 - crawler - INFO - 162 - Storage 2 started!
+2018-06-04 14:36:33,562 - crawler - ERROR - 211 - Open douban url(https://www.douban.com/group/haixiuzu/) error: Exceeded 30 redirects.
+2018-06-04 14:36:33,562 - crawler - ERROR - 75 - Parse douban page error: None (line 0)
+2018-06-04 14:36:33,562 - crawler - INFO - 100 - Parser HaiXiu Group (13) 1 finished! put 0 topic to queue.
+2018-06-04 14:36:33,565 - crawler - INFO - 145 - Parser Topic 1 finished! get 0 topic from queue.
+2018-06-04 14:36:33,565 - crawler - INFO - 152 - Parser Topic 1 finished! put 0 image to queue.
+2018-06-04 14:36:33,588 - crawler - INFO - 190 - Storage 1 finished! save image(0/0).
+2018-06-04 14:36:33,615 - crawler - INFO - 190 - Storage 2 finished! save image(0/0).
+2018-06-04 14:36:35,617 - crawler - INFO - 68 - Parser HaiXiu Group (14) 1 started!
+2018-06-04 14:36:35,617 - crawler - INFO - 111 - Parser Topic 1 started!
+2018-06-04 14:36:35,618 - crawler - INFO - 162 - Storage 1 started!
+2018-06-04 14:36:35,618 - crawler - INFO - 162 - Storage 2 started!
+2018-06-04 14:36:37,003 - crawler - ERROR - 211 - Open douban url(https://www.douban.com/group/haixiuzu/) error: Exceeded 30 redirects.
+2018-06-04 14:36:37,003 - crawler - ERROR - 75 - Parse douban page error: None (line 0)
+2018-06-04 14:36:37,003 - crawler - INFO - 100 - Parser HaiXiu Group (14) 1 finished! put 0 topic to queue.
+2018-06-04 14:36:37,035 - crawler - INFO - 145 - Parser Topic 1 finished! get 0 topic from queue.
+2018-06-04 14:36:37,035 - crawler - INFO - 152 - Parser Topic 1 finished! put 0 image to queue.
+2018-06-04 14:36:37,084 - crawler - INFO - 190 - Storage 1 finished! save image(0/0).
+2018-06-04 14:36:37,085 - crawler - INFO - 190 - Storage 2 finished! save image(0/0).
+2018-06-04 14:36:39,085 - crawler - INFO - 68 - Parser HaiXiu Group (15) 1 started!
+2018-06-04 14:36:39,088 - crawler - INFO - 111 - Parser Topic 1 started!
+2018-06-04 14:36:39,088 - crawler - INFO - 162 - Storage 1 started!
+2018-06-04 14:36:39,089 - crawler - INFO - 162 - Storage 2 started!
+2018-06-04 14:36:40,181 - crawler - ERROR - 211 - Open douban url(https://www.douban.com/group/haixiuzu/) error: Exceeded 30 redirects.
+2018-06-04 14:36:40,183 - crawler - ERROR - 75 - Parse douban page error: None (line 0)
+2018-06-04 14:36:40,183 - crawler - INFO - 100 - Parser HaiXiu Group (15) 1 finished! put 0 topic to queue.
+2018-06-04 14:36:40,211 - crawler - INFO - 145 - Parser Topic 1 finished! get 0 topic from queue.
+2018-06-04 14:36:40,211 - crawler - INFO - 152 - Parser Topic 1 finished! put 0 image to queue.
+2018-06-04 14:36:40,213 - crawler - INFO - 190 - Storage 1 finished! save image(0/0).
+2018-06-04 14:36:40,262 - crawler - INFO - 190 - Storage 2 finished! save image(0/0).
+2018-06-04 14:36:42,263 - crawler - INFO - 68 - Parser HaiXiu Group (16) 1 started!
+2018-06-04 14:36:42,263 - crawler - INFO - 111 - Parser Topic 1 started!
+2018-06-04 14:36:42,263 - crawler - INFO - 162 - Storage 1 started!
+2018-06-04 14:36:42,263 - crawler - INFO - 162 - Storage 2 started!
+2018-06-04 14:37:03,973 - crawler - INFO - 68 - Parser HaiXiu Group (1) 1 started!
+2018-06-04 14:37:03,974 - crawler - INFO - 111 - Parser Topic 1 started!
+2018-06-04 14:37:03,974 - crawler - INFO - 162 - Storage 1 started!
+2018-06-04 14:37:03,976 - crawler - INFO - 162 - Storage 2 started!
+2018-06-04 14:37:05,551 - crawler - ERROR - 211 - Open douban url(https://www.douban.com/group/meituikong/) error: Exceeded 30 redirects.
+2018-06-04 14:37:05,552 - crawler - ERROR - 75 - Parse douban page error: None (line 0)
+2018-06-04 14:37:05,552 - crawler - INFO - 100 - Parser HaiXiu Group (1) 1 finished! put 0 topic to queue.
+2018-06-04 14:37:05,595 - crawler - INFO - 145 - Parser Topic 1 finished! get 0 topic from queue.
+2018-06-04 14:37:05,595 - crawler - INFO - 152 - Parser Topic 1 finished! put 0 image to queue.
+2018-06-04 14:37:05,645 - crawler - INFO - 190 - Storage 1 finished! save image(0/0).
+2018-06-04 14:37:05,658 - crawler - INFO - 190 - Storage 2 finished! save image(0/0).
+2018-06-04 14:37:07,661 - crawler - INFO - 68 - Parser HaiXiu Group (2) 1 started!
+2018-06-04 14:37:07,661 - crawler - INFO - 111 - Parser Topic 1 started!
+2018-06-04 14:37:07,661 - crawler - INFO - 162 - Storage 1 started!
+2018-06-04 14:37:07,663 - crawler - INFO - 162 - Storage 2 started!
+2018-06-04 14:37:08,710 - crawler - ERROR - 211 - Open douban url(https://www.douban.com/group/meituikong/) error: Exceeded 30 redirects.
+2018-06-04 14:37:08,711 - crawler - ERROR - 75 - Parse douban page error: None (line 0)
+2018-06-04 14:37:08,711 - crawler - INFO - 100 - Parser HaiXiu Group (2) 1 finished! put 0 topic to queue.
+2018-06-04 14:37:08,726 - crawler - INFO - 145 - Parser Topic 1 finished! get 0 topic from queue.
+2018-06-04 14:37:08,726 - crawler - INFO - 152 - Parser Topic 1 finished! put 0 image to queue.
+2018-06-04 14:37:08,729 - crawler - INFO - 190 - Storage 1 finished! save image(0/0).
+2018-06-04 14:37:08,765 - crawler - INFO - 190 - Storage 2 finished! save image(0/0).
+2018-06-04 14:37:10,776 - crawler - INFO - 68 - Parser HaiXiu Group (3) 1 started!
+2018-06-04 14:37:10,780 - crawler - INFO - 111 - Parser Topic 1 started!
+2018-06-04 14:37:10,780 - crawler - INFO - 162 - Storage 1 started!
+2018-06-04 14:37:10,782 - crawler - INFO - 162 - Storage 2 started!
+2018-06-04 14:37:12,092 - crawler - ERROR - 211 - Open douban url(https://www.douban.com/group/meituikong/) error: Exceeded 30 redirects.
+2018-06-04 14:37:12,092 - crawler - ERROR - 75 - Parse douban page error: None (line 0)
+2018-06-04 14:37:12,092 - crawler - INFO - 100 - Parser HaiXiu Group (3) 1 finished! put 0 topic to queue.
+2018-06-04 14:37:12,125 - crawler - INFO - 145 - Parser Topic 1 finished! get 0 topic from queue.
+2018-06-04 14:37:12,125 - crawler - INFO - 152 - Parser Topic 1 finished! put 0 image to queue.
+2018-06-04 14:37:12,171 - crawler - INFO - 190 - Storage 1 finished! save image(0/0).
+2018-06-04 14:37:12,174 - crawler - INFO - 190 - Storage 2 finished! save image(0/0).
+2018-06-04 14:37:14,176 - crawler - INFO - 68 - Parser HaiXiu Group (4) 1 started!
+2018-06-04 14:37:14,177 - crawler - INFO - 111 - Parser Topic 1 started!
+2018-06-04 14:37:14,177 - crawler - INFO - 162 - Storage 1 started!
+2018-06-04 14:37:14,178 - crawler - INFO - 162 - Storage 2 started!
+2018-06-04 14:37:15,345 - crawler - ERROR - 211 - Open douban url(https://www.douban.com/group/meituikong/) error: Exceeded 30 redirects.
+2018-06-04 14:37:15,346 - crawler - ERROR - 75 - Parse douban page error: None (line 0)
+2018-06-04 14:37:15,348 - crawler - INFO - 100 - Parser HaiXiu Group (4) 1 finished! put 0 topic to queue.
+2018-06-04 14:37:15,355 - crawler - INFO - 145 - Parser Topic 1 finished! get 0 topic from queue.
+2018-06-04 14:37:15,355 - crawler - INFO - 152 - Parser Topic 1 finished! put 0 image to queue.
+2018-06-04 14:37:15,398 - crawler - INFO - 190 - Storage 1 finished! save image(0/0).
+2018-06-04 14:37:15,405 - crawler - INFO - 190 - Storage 2 finished! save image(0/0).
+2018-06-04 14:37:17,407 - crawler - INFO - 68 - Parser HaiXiu Group (5) 1 started!
+2018-06-04 14:37:17,423 - crawler - INFO - 111 - Parser Topic 1 started!
+2018-06-04 14:37:17,424 - crawler - INFO - 162 - Storage 1 started!
+2018-06-04 14:37:17,424 - crawler - INFO - 162 - Storage 2 started!
+2018-06-04 14:37:18,540 - crawler - ERROR - 211 - Open douban url(https://www.douban.com/group/meituikong/) error: Exceeded 30 redirects.
+2018-06-04 14:37:18,542 - crawler - ERROR - 75 - Parse douban page error: None (line 0)
+2018-06-04 14:37:18,542 - crawler - INFO - 100 - Parser HaiXiu Group (5) 1 finished! put 0 topic to queue.
+2018-06-04 14:37:18,589 - crawler - INFO - 145 - Parser Topic 1 finished! get 0 topic from queue.
+2018-06-04 14:37:18,589 - crawler - INFO - 152 - Parser Topic 1 finished! put 0 image to queue.
+2018-06-04 14:37:18,634 - crawler - INFO - 190 - Storage 1 finished! save image(0/0).
+2018-06-04 14:37:18,640 - crawler - INFO - 190 - Storage 2 finished! save image(0/0).
+2018-06-04 14:37:20,642 - crawler - INFO - 68 - Parser HaiXiu Group (6) 1 started!
+2018-06-04 14:37:20,645 - crawler - INFO - 111 - Parser Topic 1 started!
+2018-06-04 14:37:20,647 - crawler - INFO - 162 - Storage 1 started!
+2018-06-04 14:37:20,647 - crawler - INFO - 162 - Storage 2 started!
+2018-06-04 14:37:21,861 - crawler - ERROR - 211 - Open douban url(https://www.douban.com/group/meituikong/) error: Exceeded 30 redirects.
+2018-06-04 14:37:21,868 - crawler - ERROR - 75 - Parse douban page error: None (line 0)
+2018-06-04 14:37:21,868 - crawler - INFO - 100 - Parser HaiXiu Group (6) 1 finished! put 0 topic to queue.
+2018-06-04 14:37:21,875 - crawler - INFO - 145 - Parser Topic 1 finished! get 0 topic from queue.
+2018-06-04 14:37:21,875 - crawler - INFO - 152 - Parser Topic 1 finished! put 0 image to queue.
+2018-06-04 14:37:21,890 - crawler - INFO - 190 - Storage 1 finished! save image(0/0).
+2018-06-04 14:37:21,926 - crawler - INFO - 190 - Storage 2 finished! save image(0/0).
+2018-06-04 14:37:30,663 - crawler - INFO - 68 - Parser HaiXiu Group (1) 1 started!
+2018-06-04 14:37:30,664 - crawler - INFO - 111 - Parser Topic 1 started!
+2018-06-04 14:37:30,664 - crawler - INFO - 162 - Storage 1 started!
+2018-06-04 14:37:30,667 - crawler - INFO - 162 - Storage 2 started!
+2018-06-04 14:37:32,270 - crawler - ERROR - 211 - Open douban url(https://www.douban.com/group/WHlove/) error: Exceeded 30 redirects.
+2018-06-04 14:37:32,272 - crawler - ERROR - 75 - Parse douban page error: None (line 0)
+2018-06-04 14:37:32,272 - crawler - INFO - 100 - Parser HaiXiu Group (1) 1 finished! put 0 topic to queue.
+2018-06-04 14:37:32,299 - crawler - INFO - 145 - Parser Topic 1 finished! get 0 topic from queue.
+2018-06-04 14:37:32,299 - crawler - INFO - 152 - Parser Topic 1 finished! put 0 image to queue.
+2018-06-04 14:37:32,303 - crawler - INFO - 190 - Storage 1 finished! save image(0/0).
+2018-06-04 14:37:32,348 - crawler - INFO - 190 - Storage 2 finished! save image(0/0).
+2018-06-04 14:37:34,349 - crawler - INFO - 68 - Parser HaiXiu Group (2) 1 started!
+2018-06-04 14:37:34,351 - crawler - INFO - 111 - Parser Topic 1 started!
+2018-06-04 14:37:34,351 - crawler - INFO - 162 - Storage 1 started!
+2018-06-04 14:37:34,351 - crawler - INFO - 162 - Storage 2 started!
+2018-06-04 14:37:35,532 - crawler - ERROR - 211 - Open douban url(https://www.douban.com/group/WHlove/) error: Exceeded 30 redirects.
+2018-06-04 14:37:35,532 - crawler - ERROR - 75 - Parse douban page error: None (line 0)
+2018-06-04 14:37:35,532 - crawler - INFO - 100 - Parser HaiXiu Group (2) 1 finished! put 0 topic to queue.
+2018-06-04 14:37:35,569 - crawler - INFO - 145 - Parser Topic 1 finished! get 0 topic from queue.
+2018-06-04 14:37:35,569 - crawler - INFO - 152 - Parser Topic 1 finished! put 0 image to queue.
+2018-06-04 14:37:35,615 - crawler - INFO - 190 - Storage 1 finished! save image(0/0).
+2018-06-04 14:37:35,619 - crawler - INFO - 190 - Storage 2 finished! save image(0/0).
+2018-06-04 14:37:37,621 - crawler - INFO - 68 - Parser HaiXiu Group (3) 1 started!
+2018-06-04 14:37:37,622 - crawler - INFO - 111 - Parser Topic 1 started!
+2018-06-04 14:37:37,624 - crawler - INFO - 162 - Storage 1 started!
+2018-06-04 14:37:37,628 - crawler - INFO - 162 - Storage 2 started!
+2018-06-04 14:37:38,780 - crawler - ERROR - 211 - Open douban url(https://www.douban.com/group/WHlove/) error: Exceeded 30 redirects.
+2018-06-04 14:37:38,782 - crawler - ERROR - 75 - Parse douban page error: None (line 0)
+2018-06-04 14:37:38,782 - crawler - INFO - 100 - Parser HaiXiu Group (3) 1 finished! put 0 topic to queue.
+2018-06-04 14:37:38,808 - crawler - INFO - 145 - Parser Topic 1 finished! get 0 topic from queue.
+2018-06-04 14:37:38,808 - crawler - INFO - 152 - Parser Topic 1 finished! put 0 image to queue.
+2018-06-04 14:37:38,849 - crawler - INFO - 190 - Storage 1 finished! save image(0/0).
+2018-06-04 14:37:38,858 - crawler - INFO - 190 - Storage 2 finished! save image(0/0).
+2018-06-04 14:37:40,861 - crawler - INFO - 68 - Parser HaiXiu Group (4) 1 started!
+2018-06-04 14:37:40,865 - crawler - INFO - 111 - Parser Topic 1 started!
+2018-06-04 14:37:40,867 - crawler - INFO - 162 - Storage 1 started!
+2018-06-04 14:37:40,868 - crawler - INFO - 162 - Storage 2 started!
+2018-06-04 14:37:41,921 - crawler - ERROR - 211 - Open douban url(https://www.douban.com/group/WHlove/) error: Exceeded 30 redirects.
+2018-06-04 14:37:41,921 - crawler - ERROR - 75 - Parse douban page error: None (line 0)
+2018-06-04 14:37:41,921 - crawler - INFO - 100 - Parser HaiXiu Group (4) 1 finished! put 0 topic to queue.
+2018-06-04 14:37:41,940 - crawler - INFO - 145 - Parser Topic 1 finished! get 0 topic from queue.
+2018-06-04 14:37:41,940 - crawler - INFO - 152 - Parser Topic 1 finished! put 0 image to queue.
+2018-06-04 14:37:41,941 - crawler - INFO - 190 - Storage 1 finished! save image(0/0).
+2018-06-04 14:37:41,990 - crawler - INFO - 190 - Storage 2 finished! save image(0/0).
+2018-06-04 14:37:43,993 - crawler - INFO - 68 - Parser HaiXiu Group (5) 1 started!
+2018-06-04 14:37:43,994 - crawler - INFO - 111 - Parser Topic 1 started!
+2018-06-04 14:37:43,996 - crawler - INFO - 162 - Storage 1 started!
+2018-06-04 14:37:44,000 - crawler - INFO - 162 - Storage 2 started!
+2018-06-04 14:37:45,279 - crawler - ERROR - 211 - Open douban url(https://www.douban.com/group/WHlove/) error: Exceeded 30 redirects.
+2018-06-04 14:37:45,280 - crawler - ERROR - 75 - Parse douban page error: None (line 0)
+2018-06-04 14:37:45,280 - crawler - INFO - 100 - Parser HaiXiu Group (5) 1 finished! put 0 topic to queue.
+2018-06-04 14:37:45,315 - crawler - INFO - 145 - Parser Topic 1 finished! get 0 topic from queue.
+2018-06-04 14:37:45,315 - crawler - INFO - 152 - Parser Topic 1 finished! put 0 image to queue.
+2018-06-04 14:37:45,325 - crawler - INFO - 190 - Storage 1 finished! save image(0/0).
+2018-06-04 14:37:45,365 - crawler - INFO - 190 - Storage 2 finished! save image(0/0).
+2018-06-04 14:37:47,391 - crawler - INFO - 68 - Parser HaiXiu Group (6) 1 started!
+2018-06-04 14:37:47,397 - crawler - INFO - 111 - Parser Topic 1 started!
+2018-06-04 14:37:47,398 - crawler - INFO - 162 - Storage 1 started!
+2018-06-04 14:37:47,398 - crawler - INFO - 162 - Storage 2 started!
+2018-06-04 14:37:48,561 - crawler - ERROR - 211 - Open douban url(https://www.douban.com/group/WHlove/) error: Exceeded 30 redirects.
+2018-06-04 14:37:48,561 - crawler - ERROR - 75 - Parse douban page error: None (line 0)
+2018-06-04 14:37:48,562 - crawler - INFO - 100 - Parser HaiXiu Group (6) 1 finished! put 0 topic to queue.
+2018-06-04 14:37:48,601 - crawler - INFO - 145 - Parser Topic 1 finished! get 0 topic from queue.
+2018-06-04 14:37:48,601 - crawler - INFO - 152 - Parser Topic 1 finished! put 0 image to queue.
+2018-06-04 14:37:48,605 - crawler - INFO - 190 - Storage 1 finished! save image(0/0).
+2018-06-04 14:37:48,651 - crawler - INFO - 190 - Storage 2 finished! save image(0/0).
+2018-06-04 14:37:50,653 - crawler - INFO - 68 - Parser HaiXiu Group (7) 1 started!
+2018-06-04 14:37:50,654 - crawler - INFO - 111 - Parser Topic 1 started!
+2018-06-04 14:37:50,654 - crawler - INFO - 162 - Storage 1 started!
+2018-06-04 14:37:50,654 - crawler - INFO - 162 - Storage 2 started!
+2018-06-04 14:37:51,930 - crawler - ERROR - 211 - Open douban url(https://www.douban.com/group/WHlove/) error: Exceeded 30 redirects.
+2018-06-04 14:37:51,930 - crawler - ERROR - 75 - Parse douban page error: None (line 0)
+2018-06-04 14:37:51,931 - crawler - INFO - 100 - Parser HaiXiu Group (7) 1 finished! put 0 topic to queue.
+2018-06-04 14:37:51,982 - crawler - INFO - 145 - Parser Topic 1 finished! get 0 topic from queue.
+2018-06-04 14:37:51,982 - crawler - INFO - 152 - Parser Topic 1 finished! put 0 image to queue.
+2018-06-04 14:37:52,023 - crawler - INFO - 190 - Storage 1 finished! save image(0/0).
+2018-06-04 14:37:52,032 - crawler - INFO - 190 - Storage 2 finished! save image(0/0).
