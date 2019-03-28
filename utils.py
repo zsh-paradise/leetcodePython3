@@ -57,7 +57,7 @@ def get_yesterday():
 def query_for_list(cur, sql, param=None):
     # 返回全部查询结果
     # @return list[dict]格式
-    logger = logging.getLogger("main.tools.utils")
+    logger = logging.getLogger("utils")
     result_list = []
     try:
         if param:
@@ -138,3 +138,15 @@ def auto_insert_sql(objs, table=None, charset='UTF-8'):
     sql = ''.join(sql_prefix)
     # --------------------------------------------------
     return (sql, row_li) if is_batch else (sql, row_li[0])
+
+def postorder( root):
+        if not root:
+            return []
+        stack=[root]
+        result=[]
+        while stack:
+            node=stack.pop()
+            result.append(node.name)
+            stack.extend(node.children)
+        result.reverse()
+        return  result
